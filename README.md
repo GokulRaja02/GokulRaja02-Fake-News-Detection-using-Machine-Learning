@@ -1,2 +1,2 @@
-# Fake-News-Detection-using-Machine-Learning and Ensemble Models
+# Fake News Detection using Machine Learning and Ensemble Models
 This project detects fake news using machine learning. The dataset contains both real and fake news articles. After preprocessing and vectorizing the text, multiple ML models such as Logistic Regression, Naive Bayes, and Random Forest are trained. An ensemble voting classifier combines these models to improve accuracy. Finally, the system predicts whether a given news headline is Real or Fake  based on user input.
